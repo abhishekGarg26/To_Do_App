@@ -11,9 +11,8 @@ This repository houses a powerful and versatile To-Do App built using React-Nati
 2. Real-Time Synchronization: Leveraging the power of Firebase, this app ensures real-time synchronization of tasks. Any changes made on one device are instantly reflected on all connected devices, keeping everyone up to date.
 3. User Authentication: Users can access their to-do lists from any device.
 4. Task Management: This To-Do App provides a user-friendly interface for creating, editing, and deleting tasks. Users can prioritize their tasks, set due dates, add descriptions, and mark tasks as complete.
-5. Sorting and Filtering: The app offers flexible sorting and filtering options to help users organize their tasks effectively. They can sort tasks by priority, due date, or completion status, and apply filters to view specific categories or search for particular tasks.
-6. Offline Functionality: The app is designed to work seamlessly even when the device is offline. Users can add, edit, or delete tasks offline, and the changes will be synced with the Firebase database once a stable internet connection is established.
-7. Collaborative Features: The app allows users to share tasks and collaborate with others. Users can assign tasks to specific individuals, track progress, and leave comments, promoting effective teamwork and task management.
+5. Offline Functionality: The app is designed to work seamlessly even when the device is offline. Users can add, edit, or delete tasks offline, and the changes will be synced with the Firebase database once a stable internet connection is established.
+6. Collaborative Features: The app allows users to share tasks and collaborate with others. Users can assign tasks to specific individuals, track progress, and leave comments, promoting effective teamwork and task management.
 
 ## ACCESS
 
